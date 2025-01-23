@@ -1,0 +1,7 @@
+streamlit
+pandas
+numpy
+bs4
+langchain_community
+langchain_openai
+pyperclip
